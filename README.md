@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+* 🔭 **I’m currently working on:** Scaling my **AI-Powered Internet Monitoring System** for enterprise-level latency analysis.
+* 👯 **I’m looking to collaborate on:** Open-source AI agents and full-stack integration projects.
+* 🤝 **I’m looking for help with:** Mastering advanced CI/CD pipelines for ML model deployment.
+* 🌱 **I’m currently learning:** Advanced Large Language Model (LLM) fine-tuning and system integration.
+* 💬 **Ask me about:** React performance optimization, LeetCode patterns, and building AI agents.
+* ⚡ **Fun fact:** I've solved **430+ problems on LeetCode** and built a fully functional Snake game using only Python's Turtle library.
 
 
 # 💻 Tech Stack:
