@@ -4,7 +4,7 @@
 * 🤝 **I’m looking for help with:** Mastering advanced CI/CD pipelines for ML model deployment.
 * 🌱 **I’m currently learning:** Advanced Large Language Model (LLM) fine-tuning and system integration.
 * 💬 **Ask me about:** React performance optimization, LeetCode patterns, and building AI agents.
-* ⚡ **Fun fact:** I've solved **430+ problems on LeetCode** and built a fully functional Snake game using only Python's Turtle library.
+* ⚡ **Fun fact:** I've solved **650+ problems on LeetCode** and built a fully functional Snake game using only Python's Turtle library.
 
 
 # 💻 Tech Stack:
