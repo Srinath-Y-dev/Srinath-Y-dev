@@ -77,10 +77,15 @@ CS undergrad at Chennai Institute of Technology. I build **distributed backend s
 
 ## 📊 Stats
 
+<!--
+  These two cards use the public github-readme-stats instance, which is often rate-limited.
+  Re-enable them after self-hosting (replace YOUR-APP with your own Vercel domain):
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Srinath-Y-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-Y-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://YOUR-APP.vercel.app/api?username=Srinath-Y-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://YOUR-APP.vercel.app/api/top-langs/?username=Srinath-Y-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+-->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Srinath-Y-dev&theme=tokyonight&hide_border=true" />
